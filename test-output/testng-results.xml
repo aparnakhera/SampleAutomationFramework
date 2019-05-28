@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Ecommerce Site Suite" duration-ms="18373" started-at="2019-05-28T05:43:29Z" finished-at="2019-05-28T05:43:47Z">
+    <groups>
+    </groups>
+    <test name="Ecommerce Test" duration-ms="18373" started-at="2019-05-28T05:43:29Z" finished-at="2019-05-28T05:43:47Z">
+      <class name="com.webproject.EcommerceTest.EcommerceSiteTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.webproject.EcommerceTest.EcommerceSiteTest@f8360d]" name="setup" is-config="true" duration-ms="1115" started-at="2019-05-28T13:43:29Z" finished-at="2019-05-28T13:43:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LaunchEcommerceSiteTest()[pri:0, instance:com.webproject.EcommerceTest.EcommerceSiteTest@f8360d]" name="LaunchEcommerceSiteTest" duration-ms="16280" started-at="2019-05-28T13:43:30Z" finished-at="2019-05-28T13:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchEcommerceSiteTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webproject.EcommerceTest.EcommerceSiteTest@f8360d]" name="tearDown" is-config="true" duration-ms="956" started-at="2019-05-28T13:43:46Z" finished-at="2019-05-28T13:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webproject.EcommerceTest.EcommerceSiteTest -->
+    </test> <!-- Ecommerce Test -->
+  </suite> <!-- Ecommerce Site Suite -->
+</testng-results>

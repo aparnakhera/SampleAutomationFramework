@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Ecommerce Site Suite" verbose="1" >
+  <test name="Ecommerce Test" >
+    <classes>
+      <class name="com.webproject.EcommerceTest.EcommerceSiteTest"/>
+    </classes>
+ </test>
+</suite>
